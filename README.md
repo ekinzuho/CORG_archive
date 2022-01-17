@@ -1,2 +1,1 @@
-# CORG_archive
-Istanbul Technical University, Computer Organization class archive
+# Computer organization class projects
